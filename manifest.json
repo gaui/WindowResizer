@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "Gudjon Jonson",
   "browser_action": {
-    "default_icon": "tab-icon.png",
+    "default_icon": "icon.png",
     "default_title": "Resize all windows",
     "default_popup": "popup.html"
   },
